@@ -1,0 +1,93 @@
+Introduction to Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn patterns from data without being explicitly programmed. Machine Learning algorithms improve their performance as they are exposed to more data.
+
+Types of Machine Learning
+Supervised Learning
+
+Supervised learning uses labeled datasets to train predictive models. Common algorithms include:
+
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machine (SVM)
+
+Applications include spam detection, house price prediction, and medical diagnosis.
+
+Unsupervised Learning
+
+Unsupervised learning discovers hidden patterns in unlabeled data.
+
+Popular algorithms include:
+
+K-Means Clustering
+DBSCAN
+Hierarchical Clustering
+Principal Component Analysis (PCA)
+
+Applications include customer segmentation and anomaly detection.
+
+Reinforcement Learning
+
+Reinforcement Learning trains an agent to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions.
+
+Applications include:
+
+Robotics
+Self-driving cars
+Game playing
+Resource optimization
+Data Preprocessing
+
+Data preprocessing is one of the most important steps in Machine Learning.
+
+Common preprocessing techniques include:
+
+Handling missing values
+Removing duplicate records
+Encoding categorical variables
+Feature scaling
+Outlier detection
+Feature engineering
+
+Popular scaling methods include:
+
+StandardScaler
+MinMaxScaler
+
+Outlier detection can be performed using:
+
+IQR Method
+Z-Score
+Model Evaluation
+
+Classification models are evaluated using metrics such as:
+
+Accuracy
+Precision
+Recall
+F1 Score
+
+Regression models are evaluated using:
+
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+
+Cross-validation is commonly used to estimate model performance.
+
+Deployment
+
+Machine Learning models can be deployed using:
+
+FastAPI
+Flask
+Docker
+Kubernetes
+
+Cloud deployment platforms include:
+
+Google Cloud Platform
+Microsoft Azure
+Amazon Web Services (AWS)
