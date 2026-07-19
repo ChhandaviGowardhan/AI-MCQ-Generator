@@ -342,9 +342,17 @@ POST /mcq/generate
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
-You can add screenshots here after running the application.
+## Upload PDF
+
+![Upload Screen](output/Upload.jpg)
+
+---
+
+## Generated MCQs & Download Options
+
+![Result Screen](output/Download.jpg)
 
 ```
 Home Screen
