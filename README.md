@@ -353,18 +353,6 @@ POST /mcq/generate
 ## Generated MCQs & Download Options
 
 ![Result Screen](output/Download.jpg)
-
-```
-Home Screen
-
-frontend/screenshots/home.png
-```
-
-```
-Generated MCQs
-
-frontend/screenshots/result.png
-```
 ---
 
 # Author
