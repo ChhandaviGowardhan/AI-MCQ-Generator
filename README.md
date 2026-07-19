@@ -365,6 +365,6 @@ frontend/screenshots/result.png
 
 Python | Data Analytics | AI | Machine Learning | NLP | FastAPI | Streamlit | LangChain
 
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/ChhandaviGowardhan)
+GitHub: [https://github.com/ChhandaviGowardhan](https://github.com/ChhandaviGowardhan)
 
-LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/chhandavi-gowardhan-56b458291/)
+LinkedIn: [https://www.linkedin.com/in/chhandavi-gowardhan-56b458291/](https://www.linkedin.com/in/chhandavi-gowardhan-56b458291/)
